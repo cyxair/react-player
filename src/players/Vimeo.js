@@ -86,7 +86,7 @@ export class Vimeo extends Component {
       width: '100%',
       height: '100%',
       overflow: 'hidden',
-      backgroundColor: 'black',
+      backgroundColor: 'rgba(255,255,255,0)',
       ...this.props.style
     }
     return (
